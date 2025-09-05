@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ali-haris/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ali-haris/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ali-haris/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/ali-haris/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ali-haris/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/ali-haris/LeetCode/tree/master/0162-find-peak-element) |
 | [0735-asteroid-collision](https://github.com/ali-haris/LeetCode/tree/master/0735-asteroid-collision) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ali-haris/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ali-haris/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ali-haris/LeetCode/tree/master/0242-valid-anagram) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ali-haris/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ali-haris/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ali-haris/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ali-haris/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ali-haris/LeetCode/tree/master/0402-remove-k-digits) |
 | [3195-separate-black-and-white-balls](https://github.com/ali-haris/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ali-haris/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ali-haris/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/ali-haris/LeetCode/tree/master/0242-valid-anagram) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
