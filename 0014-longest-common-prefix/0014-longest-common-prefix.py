@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         if not strs:
@@ -10,7 +12,7 @@ class Solution:
             
             # Compare it with the same index in all other words
             for s in strs[1:]:
-                # If index i is out of range or characters don't match
+                # If index i is out of range or characters don’t match
                 if i >= len(s) or s[i] != char:
                     return strs[0][:i]  # Return common prefix up to index i
 
