@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ali-haris/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ali-haris/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ali-haris/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ali-haris/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ali-haris/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ali-haris/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ali-haris/LeetCode/tree/master/0344-reverse-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ali-haris/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/ali-haris/LeetCode/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/ali-haris/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ali-haris/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ali-haris/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ali-haris/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/ali-haris/LeetCode/tree/master/0067-add-binary) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
 ## Geometry
 |  |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ali-haris/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ali-haris/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
