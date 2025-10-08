@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ali-haris/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ali-haris/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ali-haris/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/ali-haris/LeetCode/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/ali-haris/LeetCode/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ali-haris/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ali-haris/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ali-haris/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ali-haris/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/ali-haris/LeetCode/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/ali-haris/LeetCode/tree/master/0744-network-delay-time) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ali-haris/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Dynamic Programming
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ali-haris/LeetCode/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/ali-haris/LeetCode/tree/master/0744-network-delay-time) |
 ## Heap (Priority Queue)
 |  |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/ali-haris/LeetCode/tree/master/0744-network-delay-time) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ali-haris/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
