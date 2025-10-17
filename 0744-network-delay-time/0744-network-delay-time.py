@@ -19,4 +19,4 @@ class Solution:
                 if n2 not in visited:
                     heapq.heappush(minHeap, (w1+w2, n2))
         
-        return time if len(visited) == n else -1 # set==n means all nodes viisited 
+        return time if len(visited) == n else -1 # set==n means all nodes viisited
