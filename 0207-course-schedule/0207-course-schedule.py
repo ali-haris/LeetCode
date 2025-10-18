@@ -25,4 +25,3 @@ class Solution:
                     queue.append(next_course)
 
         return len(ans) == n #in the end, all courses must be finished
-        
