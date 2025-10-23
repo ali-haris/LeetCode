@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ali-haris/LeetCode/tree/master/0402-remove-k-digits) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ali-haris/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/ali-haris/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ali-haris/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ali-haris/LeetCode/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/ali-haris/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ali-haris/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ali-haris/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ali-haris/LeetCode/tree/master/0067-add-binary) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/ali-haris/LeetCode/tree/master/1013-fibonacci-number) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ali-haris/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ali-haris/LeetCode/tree/master/0062-unique-paths) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ali-haris/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -255,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ali-haris/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ali-haris/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
