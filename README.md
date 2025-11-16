@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ali-haris/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/ali-haris/LeetCode/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/ali-haris/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ali-haris/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ali-haris/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/ali-haris/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ali-haris/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ali-haris/LeetCode/tree/master/0067-add-binary) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/ali-haris/LeetCode/tree/master/1013-fibonacci-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ali-haris/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ali-haris/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ali-haris/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ali-haris/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
