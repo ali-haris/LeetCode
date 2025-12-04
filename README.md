@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/ali-haris/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ali-haris/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ali-haris/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/ali-haris/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [3195-separate-black-and-white-balls](https://github.com/ali-haris/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ali-haris/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ali-haris/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ali-haris/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ali-haris/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ali-haris/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2211-count-collisions-on-a-road](https://github.com/ali-haris/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ali-haris/LeetCode/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/ali-haris/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ali-haris/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/ali-haris/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ali-haris/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ali-haris/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ali-haris/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
