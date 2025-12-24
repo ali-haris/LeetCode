@@ -1,5 +1,7 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
+
+        # Step 1: Initialize k (count of elements not equal to val)
         k = 0
 
         # Step 2: Traverse the array
@@ -13,5 +15,6 @@ class Solution:
 
         # Step 4: Return number of valid elements
         return k
-            
+
+        
         
