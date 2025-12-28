@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ali-haris/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ali-haris/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ali-haris/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/ali-haris/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2058-concatenation-of-array](https://github.com/ali-haris/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ali-haris/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ali-haris/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ali-haris/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-haris/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ali-haris/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ali-haris/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ali-haris/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Tree
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ali-haris/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ali-haris/LeetCode/tree/master/0064-minimum-path-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ali-haris/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Combinatorics
 |  |
 | ------- |
