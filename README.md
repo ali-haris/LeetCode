@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ali-haris/LeetCode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ali-haris/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/ali-haris/LeetCode/tree/master/0735-asteroid-collision) |
+| [0840-magic-squares-in-grid](https://github.com/ali-haris/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ali-haris/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ali-haris/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ali-haris/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/ali-haris/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ali-haris/LeetCode/tree/master/0242-valid-anagram) |
+| [0840-magic-squares-in-grid](https://github.com/ali-haris/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ali-haris/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ali-haris/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ali-haris/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ali-haris/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ali-haris/LeetCode/tree/master/0067-add-binary) |
+| [0840-magic-squares-in-grid](https://github.com/ali-haris/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/ali-haris/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ali-haris/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ali-haris/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ali-haris/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0840-magic-squares-in-grid](https://github.com/ali-haris/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ali-haris/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Combinatorics
 |  |
