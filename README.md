@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ali-haris/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/ali-haris/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ali-haris/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/ali-haris/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/ali-haris/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ali-haris/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ali-haris/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ali-haris/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ali-haris/LeetCode/tree/master/0402-remove-k-digits) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ali-haris/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1975-maximum-matrix-sum](https://github.com/ali-haris/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ali-haris/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ali-haris/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3195-separate-black-and-white-balls](https://github.com/ali-haris/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/ali-haris/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ali-haris/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ali-haris/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/ali-haris/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Combinatorics
 |  |
 | ------- |
