@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ali-haris/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ali-haris/LeetCode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/ali-haris/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ali-haris/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ali-haris/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/ali-haris/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-haris/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ali-haris/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ali-haris/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ali-haris/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ali-haris/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ali-haris/LeetCode/tree/master/0067-add-binary) |
 | [0840-magic-squares-in-grid](https://github.com/ali-haris/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
