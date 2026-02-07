@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ali-haris/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ali-haris/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ali-haris/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ali-haris/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ali-haris/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ali-haris/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ali-haris/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ali-haris/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ali-haris/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ali-haris/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ali-haris/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/ali-haris/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Greedy
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ali-haris/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0474-ones-and-zeroes](https://github.com/ali-haris/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/ali-haris/LeetCode/tree/master/1013-fibonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ali-haris/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ali-haris/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ali-haris/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ali-haris/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
