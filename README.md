@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/ali-haris/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [3195-separate-black-and-white-balls](https://github.com/ali-haris/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ali-haris/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3713-longest-balanced-substring-i](https://github.com/ali-haris/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ali-haris/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ali-haris/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ali-haris/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ali-haris/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3713-longest-balanced-substring-i](https://github.com/ali-haris/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3863-power-grid-maintenance](https://github.com/ali-haris/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
@@ -421,11 +423,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ali-haris/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ali-haris/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3713-longest-balanced-substring-i](https://github.com/ali-haris/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ali-haris/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ali-haris/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3713-longest-balanced-substring-i](https://github.com/ali-haris/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Union Find
 |  |
 | ------- |
