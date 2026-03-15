@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ali-haris/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ali-haris/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1622-fancy-sequence](https://github.com/ali-haris/LeetCode/tree/master/1622-fancy-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/ali-haris/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ali-haris/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1622-fancy-sequence](https://github.com/ali-haris/LeetCode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ali-haris/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ali-haris/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ali-haris/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ali-haris/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/ali-haris/LeetCode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
