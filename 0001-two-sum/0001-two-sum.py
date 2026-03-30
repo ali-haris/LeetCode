@@ -1,17 +1,8 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # Dictionary to store number -> index
-        seen = {}
-        
-        # Loop through the array
-        for i in range(len(nums)):
-            
-            # Calculate the number we need to reach target
-            complement = target - nums[i]
-            
-            # If complement already exists, we found the answer
-            if complement in seen:
-                return [seen[complement], i]
-            
-            # Otherwise, store current number with its index
-            seen[nums[i]] = i
+        num_map = {}  # Hash table to store number and its index
+        for i, num in enumerate(nums):
+            complement = target - num  # Find the complement
+            if complement in num_map:
+                return [num_map[complement], i]  # Return indices of complement and current number
+            num_map[num] = i  # Store the number with its index
