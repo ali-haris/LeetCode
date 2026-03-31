@@ -1,6 +1,17 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        # Dictionary to store number -> index
+        seen = {}
+        
+        # Loop through the array
         for i in range(len(nums)):
-            for j in range(i + 1, len(nums)):
-                if nums[i] + nums[j] == target:
-                    return [i, j]
+            
+            # Calculate the number we need to reach target
+            complement = target - nums[i]
+            
+            # If complement already exists, we found the answer
+            if complement in seen:
+                return [seen[complement], i]
+            
+            # Otherwise, store current number with its index
+            seen[nums[i]] = i
