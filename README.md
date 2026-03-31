@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ali-haris/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/ali-haris/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-haris/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/ali-haris/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ali-haris/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0474-ones-and-zeroes](https://github.com/ali-haris/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0682-baseball-game](https://github.com/ali-haris/LeetCode/tree/master/0682-baseball-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ali-haris/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ali-haris/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ali-haris/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ali-haris/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ali-haris/LeetCode/tree/master/0242-valid-anagram) |
 | [0976-minimum-area-rectangle](https://github.com/ali-haris/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [2092-find-all-people-with-secret](https://github.com/ali-haris/LeetCode/tree/master/2092-find-all-people-with-secret) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ali-haris/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ali-haris/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ali-haris/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/ali-haris/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ali-haris/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ali-haris/LeetCode/tree/master/0242-valid-anagram) |
 | [0840-magic-squares-in-grid](https://github.com/ali-haris/LeetCode/tree/master/0840-magic-squares-in-grid) |
