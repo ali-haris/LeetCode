@@ -4,7 +4,9 @@ class Solution:
 
         for num in nums:
             if num in seen:
+
                 return True
-            seen[num]= True
+
+            seen[num]= "Test"
         
         return False
