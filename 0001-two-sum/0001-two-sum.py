@@ -6,11 +6,11 @@ class Solution:
         # Loop through the array
         for i in range(len(nums)):
              # Calculate the number we need to reach target
-            y = target - nums[i]
+            x = target - nums[i]
 
-            if y in ans:
+            if x in ans:
 
-                return [ans[y],i]
+                return [ans[x],i]
 
             # Otherwise, store current number with its index
             ans[nums[i]] = i
