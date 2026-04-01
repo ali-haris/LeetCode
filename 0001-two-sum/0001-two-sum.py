@@ -1,7 +1,17 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        # Dictionary to store number -> index
+        ans ={}
+
+        # Loop through the array
         for i in range(len(nums)):
-            for j in range(i + 1, len(nums)):
-                if nums[i] + nums[j] == target:
-                    return [i, j]
+             # Calculate the number we need to reach target
+            y = target - nums[i]
+
+            if y in ans:
+
+                return [ans[y],i]
+
+            # Otherwise, store current number with its index
+            ans[nums[i]] = i
 
