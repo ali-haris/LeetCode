@@ -7,6 +7,6 @@ class Solution:
 
                 return True
 
-            seen[num]= "Test"
+            seen[num]= True
         
         return False
