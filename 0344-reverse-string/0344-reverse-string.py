@@ -1,25 +1,14 @@
 class Solution:
-    # def reverseString(self, s: List[str]) -> None:
-    #     def helper(left: int, right: int) -> None:
-    #         # Base case
-    #         if left >= right:
-    #             return
-            
-    #         # Swap
-    #         s[left], s[right] = s[right], s[left]
-            
-    #         # Recursive step
-    #         helper(left + 1, right - 1)
+    def reverseString(self, s: List[str]) -> None:
+        """
+        Do not return anything, modify s in-place instead.
+        """
         
-    #     # Initial call
-    #     helper(0, len(s) - 1)
-        
-   # normal     
-    def reverseString(self,s: List[str]) -> None:
-        left, right = 0, len(s) - 1
-        
-        # Swap characters from both ends moving towards the middle
-        while left < right:
-            s[left], s[right] = s[right], s[left]  # swap
-            left += 1
-            right -= 1
+        l=0
+        r=len(s)-1
+        while l<r:
+            temp = s[l]
+            s[l] = s[r] # h = o
+            s[r] = temp 
+            l+=1
+            r-=1
