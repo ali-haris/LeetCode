@@ -1,16 +1,21 @@
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-
-        # convert list to set to remove duplicates
-        test_list = set(nums)
-
-        # convert back to list and sort (since input must remain sorted)
-        test_list = list(test_list)
-        test_list.sort()
-
-        # update nums in-place
-        for i in range(len(test_list)):
-            nums[i] = test_list[i]
-
-        # return the new length
-        return len(test_list)
+    def removeDuplicates(self, nums: list[int]) -> int:
+        
+        # Pointer k tracks the position to place next unique element
+        k = 1  # First element is always unique
+        
+        # Iterate from second element onward
+        for i in range(1, len(nums)):
+            
+            # If current element is different from previous
+            # it means we found a new unique element
+            if nums[i] != nums[i - 1]:
+                
+                # Place this unique element at index k
+                nums[k] = nums[i]
+                
+                # Move k forward for next unique element
+                k += 1
+        
+        # Return number of unique elements
+        return k
