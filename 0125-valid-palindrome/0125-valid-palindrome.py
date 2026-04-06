@@ -4,7 +4,7 @@ class Solution:
         l = 0
         r = len(s) - 1
         
-        s = s.lower()
+        # s = s.lower()
         # Loop until the two pointers meet or cross each other
         while l < r:
         
@@ -17,7 +17,7 @@ class Solution:
                 r -= 1
             
             # Compare characters 
-            if s[l] != s[r]:
+            if s[l].lower() != s[r].lower():
                 return False  # If mismatch found,
             
             l += 1
